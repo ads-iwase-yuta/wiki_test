@@ -1,5 +1,3 @@
-* text=auto
-
 *.bat eol=crlf
 *.bat encoding=sjis
 *.bat diff=sjis
