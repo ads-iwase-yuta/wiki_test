@@ -1,6 +1,8 @@
 * text=auto
 
-*.bat eol=crlf encoding=sjis diff=sjis
+*.bat eol=crlf
+*.bat encoding=sjis
+*.bat diff=sjis
 *.cmd eol=crlf encoding=sjis diff=sjis
 *.ps1 eol=lf encoding=sjis diff=sjis
 *.sh eol=lf encoding=sjis diff=sjis
