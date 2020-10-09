@@ -1,7 +1,7 @@
 *.bat eol=crlf
-*.bat encoding=sjis
+*.bat encoding=utf16
 *.bat diff=sjis
-*.cmd eol=crlf encoding=sjis diff=sjis
-*.ps1 eol=lf encoding=sjis diff=sjis
-*.sh eol=lf encoding=sjis diff=sjis
+*.cmd eol=crlf encoding=utf16 diff=sjis
+*.ps1 eol=lf encoding=utf16 diff=sjis
+*.sh eol=lf encoding=utf16 diff=sjis
 *.rtf -text
