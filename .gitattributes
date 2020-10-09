@@ -1,7 +1,7 @@
 * text=auto
 
-*.bat eol=crlf
-*.cmd eol=crlf
-*.ps1 eol=lf
-*.sh eol=lf
+*.bat eol=crlf encoding=shiftjis
+*.cmd eol=crlf encoding=shiftjis
+*.ps1 eol=lf encoding=shiftjis
+*.sh eol=lf encoding=shiftjis
 *.rtf -text
